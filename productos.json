@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "Producto": "Zapatilla",
+    "Marca": "Nike",
+    "Precio": 15000,
+    "Disponible": true,
+    "Tienda": "Nike de Alto Palermo",
+    "EnvioGratis": false,
+    "Stock": 22
+  },
+  {
+    "Id": 2,
+    "Producto": "Zapatilla",
+    "Marca": "Adidas",
+    "Precio": 9500,
+    "Disponible": true,
+    "Tienda": "Adidas Arcos de Palermo",
+    "EnvioGratis": true,
+    "Stock": 9
+  },
+  {
+    "Id": 3,
+    "Producto": "Zapatilla",
+    "Marca": "Topper",
+    "Precio": 5900,
+    "Disponible": true,
+    "Tienda": "Stock Center",
+    "EnvioGratis": true,
+    "Stock": 3
+  },
+  {
+    "Id": 4,
+    "Producto": "Zapatilla",
+    "Marca": "Jhon Foos",
+    "Precio": 9999.9,
+    "Disponible": true,
+    "Tienda": "Abasto Shopping",
+    "EnvioGratis": true,
+    "Stock": 10
+  },
+  {
+    "Id": 5,
+    "Producto": "Zapatilla",
+    "Marca": "Vans",
+    "Precio": 13000,
+    "Disponible": true,
+    "Tienda": "Abasto Shopping",
+    "EnvioGratis": true,
+    "Stock": 10
+  },
+  {
+    "Id": 6,
+    "Producto": "Zapato",
+    "Marca": "Ricky Sarkany",
+    "Precio": 25000,
+    "Disponible": true,
+    "Tienda": "Palermo Soho",
+    "EnvioGratis": true,
+    "Stock": 5
+  },
+  {
+    "Id": 7,
+    "Producto": "Zapato",
+    "Marca": "Ricky Sarkany",
+    "Precio": 9000,
+    "Disponible": true,
+    "Tienda": "Sarkany, Palermo Soho",
+    "EnvioGratis": false,
+    "Stock": 10
+  },
+  {
+    "Id": 8,
+    "Producto": "Zapatilla",
+    "Marca": "Vans",
+    "Precio": 9500,
+    "Disponible": true,
+    "Tienda": "Abasto Shopping",
+    "EnvioGratis": true,
+    "Stock": 10
+  },
+  {
+    "Id": 9,
+    "Producto": "Zapatilla",
+    "Marca": "Nike",
+    "Precio": 26000,
+    "Disponible": true,
+    "Tienda": "Nike Palermo Soho",
+    "EnvioGratis": false,
+    "Stock": 10
+  },
+  {
+    "Id": 10,
+    "Producto": "Zapatilla",
+    "Marca": "Ricky Sarkany",
+    "Precio": 17200,
+    "Disponible": true,
+    "Tienda": "Sarkany, Palermo Soho",
+    "EnvioGratis": false,
+    "Stock": 12
+  },
+  {
+    "Id": 11,
+    "Producto": "Cartera",
+    "Marca": "Prüne",
+    "Precio": 7200,
+    "Disponible": true,
+    "Tienda": "Prüne, Las Cañitas",
+    "EnvioGratis": false,
+    "Stock": 38
+  },
+  {
+    "Id": 12,
+    "Producto": "Remera",
+    "Marca": "Prüne",
+    "Precio": 5800,
+    "Disponible": true,
+    "Tienda": "Prüne, Las Cañitas",
+    "EnvioGratis": false,
+    "Stock": 10
+  },
+  {
+    "Id": 13,
+    "Producto": "Vestido",
+    "Marca": "Complot",
+    "Precio": 14200,
+    "Disponible": true,
+    "Tienda": "Complot, Palermo Soho",
+    "EnvioGratis": false,
+    "Stock": 10
+  },
+  {
+    "Id": 14,
+    "Producto": "Zapatilla",
+    "Marca": "Complot",
+    "Precio": 22900,
+    "Disponible": true,
+    "Tienda": "Complot, Palermo Soho",
+    "EnvioGratis": false,
+    "Stock": 10
+  },
+  {
+    "Id": 15,
+    "Producto": "Cartera",
+    "Marca": "Prüne",
+    "Precio": 15000,
+    "Disponible": true,
+    "Tienda": "Prüne, Shopping",
+    "EnvioGratis": false,
+    "Stock": 100
+  }
+]
